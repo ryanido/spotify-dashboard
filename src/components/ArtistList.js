@@ -18,7 +18,7 @@ const data = [
 const ListWrapper = styled.div`
     display flex;
     flex-direction:row;
-    padding-top: 20px;
+    margin-top: 20px;
     padding-bottom: 20px;
 `
 

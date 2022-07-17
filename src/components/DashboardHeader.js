@@ -1,6 +1,6 @@
 import { Avatar } from "@mui/material";
 import styled from "styled-components";
-import avatar from "../images/spotifyavatar.jpg"
+import avatar from "../assets/images/spotifyavatar.jpg"
 import colors from "../assets/colors";
 
 const HeaderWrapper = styled.div`
